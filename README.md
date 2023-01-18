@@ -1,6 +1,6 @@
 # airplane
 
-A new Flutter project.
+Aplikasi pemesanan pesawat menggunakan Flutter dan Firebase
 
 ## Getting Started
 
